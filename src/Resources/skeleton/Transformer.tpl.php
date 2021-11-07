@@ -2,7 +2,7 @@
 
 namespace <?php echo $namespace; ?>;
 
-use miladghofrani\DecoratorBundle\Contract\TransformerInterface;
+use MiladGhofrani\DecoratorBundle\Contract\TransformerInterface;
 
 final class <?php echo $class_name; ?> implements TransformerInterface
 {

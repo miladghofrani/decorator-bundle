@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace miladghofrani\DecoratorBundle\Transformer;
+namespace MiladGhofrani\DecoratorBundle\Transformer;
 
-use miladghofrani\DecoratorBundle\Decoder\GenericDecoder;
-use miladghofrani\DecoratorBundle\Contract\TransformerInterface;
+use MiladGhofrani\DecoratorBundle\Decoder\GenericDecoder;
+use MiladGhofrani\DecoratorBundle\Contract\TransformerInterface;
 use Doctrine\Common\Collections\ArrayCollection;
 
 class TransformerService

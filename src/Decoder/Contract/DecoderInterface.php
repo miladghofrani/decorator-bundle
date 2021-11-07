@@ -1,6 +1,6 @@
 <?php
 
-namespace miladghofrani\DecoratorBundle\Decoder\Contract;
+namespace MiladGhofrani\DecoratorBundle\Decoder\Contract;
 
 interface DecoderInterface
 {

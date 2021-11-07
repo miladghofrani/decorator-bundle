@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace miladghofrani\DecoratorBundle\Transformer;
+namespace MiladGhofrani\DecoratorBundle\Transformer;
 
 class TransformedResponseResource
 {

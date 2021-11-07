@@ -1,6 +1,6 @@
 <?php
 
-namespace miladghofrani\DecoratorBundle\Transformer;
+namespace MiladGhofrani\DecoratorBundle\Transformer;
 
 class Format
 {

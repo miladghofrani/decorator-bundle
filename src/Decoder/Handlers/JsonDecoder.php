@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace miladghofrani\DecoratorBundle\Decoder\Handlers;
+namespace MiladGhofrani\DecoratorBundle\Decoder\Handlers;
 
-use miladghofrani\DecoratorBundle\Decoder\Contract\DecoderInterface;
+use MiladGhofrani\DecoratorBundle\Decoder\Contract\DecoderInterface;
 use Symfony\Component\Serializer\Encoder\JsonDecode;
 
 class JsonDecoder implements DecoderInterface

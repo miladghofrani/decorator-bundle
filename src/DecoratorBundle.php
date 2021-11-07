@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace miladghofrani\DecoratorBundle;
+namespace MiladGhofrani\DecoratorBundle;
 
-use miladghofrani\DecoratorBundle\DependencyInjection\DecoratorExtension;
+use MiladGhofrani\DecoratorBundle\DependencyInjection\DecoratorExtension;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
 class DecoratorBundle extends Bundle

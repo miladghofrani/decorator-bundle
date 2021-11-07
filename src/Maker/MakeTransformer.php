@@ -1,6 +1,6 @@
 <?php
 
-namespace miladghofrani\DecoratorBundle\Maker;
+namespace MiladGhofrani\DecoratorBundle\Maker;
 
 use Symfony\Bundle\MakerBundle\ConsoleStyle;
 use Symfony\Bundle\MakerBundle\DependencyBuilder;

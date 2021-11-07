@@ -1,6 +1,6 @@
 <?php
 
-namespace miladghofrani\DecoratorBundle\Contract;
+namespace MiladGhofrani\DecoratorBundle\Contract;
 
 interface TransformerInterface
 {

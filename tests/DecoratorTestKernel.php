@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace miladghofrani\DecoratorBundle\Tests;
+namespace MiladGhofrani\DecoratorBundle\Tests;
 
 use Exception;
 use Symfony\Bundle\FrameworkBundle\FrameworkBundle;

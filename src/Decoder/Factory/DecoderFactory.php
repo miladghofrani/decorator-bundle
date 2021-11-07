@@ -2,13 +2,13 @@
 
 declare(strict_types=1);
 
-namespace miladghofrani\DecoratorBundle\Decoder\Factory;
+namespace MiladGhofrani\DecoratorBundle\Decoder\Factory;
 
 use App\Service\Decoder\Contract\DecoderInterface;
 use App\Service\Decoder\Contract\DecoderFactoryInterface;
 use App\Service\Decoder\Handlers\JsonDecoder;
 use App\Service\Decoder\Handlers\XmlDecoder;
-use miladghofrani\DecoratorBundle\Transformer\Format;
+use MiladGhofrani\DecoratorBundle\Transformer\Format;
 
 class DecoderFactory implements DecoderFactoryInterface
 {

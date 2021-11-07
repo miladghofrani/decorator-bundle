@@ -1,5 +1,5 @@
 {
-    "name": "miladghofrani/DecoratorBundle",
+    "name": "MiladGhofrani/DecoratorBundle",
     "description": "Decode, transform and decorate third-party api response",
     "type": "symfony-bundle",
     "license": "proprietary",
@@ -13,12 +13,12 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "miladghofrani\\Decorator\\": "src"
+            "MiladGhofrani\\Decorator\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "miladghofrani\\Decorator\\Tests\\": "tests"
+            "MiladGhofrani\\Decorator\\Tests\\": "tests"
         }
     },
     "require": {

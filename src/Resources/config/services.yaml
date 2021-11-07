@@ -1,6 +1,6 @@
 services:
 
-  miladghofrani\DecoratorBundle\Transformer\TransformerService:
+  MiladGhofrani\DecoratorBundle\Transformer\TransformerService:
     public: true
     lazy: true
     arguments:

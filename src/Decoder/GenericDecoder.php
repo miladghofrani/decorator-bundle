@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace miladghofrani\DecoratorBundle\Decoder;
+namespace MiladGhofrani\DecoratorBundle\Decoder;
 
-use miladghofrani\DecoratorBundle\Decoder\Contract\DecoderFactoryInterface;
+use MiladGhofrani\DecoratorBundle\Decoder\Contract\DecoderFactoryInterface;
 
 class GenericDecoder
 {

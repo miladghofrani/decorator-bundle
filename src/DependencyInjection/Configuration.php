@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace miladghofrani\DecoratorBundle\DependencyInjection;
+namespace MiladGhofrani\DecoratorBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

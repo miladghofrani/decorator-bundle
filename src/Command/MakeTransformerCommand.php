@@ -1,6 +1,6 @@
 <?php
 
-namespace miladghofrani\DecoratorBundle\Command;
+namespace MiladGhofrani\DecoratorBundle\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;

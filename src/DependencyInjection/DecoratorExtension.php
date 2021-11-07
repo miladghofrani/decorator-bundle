@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace miladghofrani\DecoratorBundle\DependencyInjection;
+namespace MiladGhofrani\DecoratorBundle\DependencyInjection;
 
 use Exception;
 use Symfony\Component\Config\FileLocator;
