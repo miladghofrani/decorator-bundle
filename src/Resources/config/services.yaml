@@ -1,0 +1,14 @@
+services:
+
+  miladghofrani\DecoratorBundle\Transformer\TransformerService:
+    public: true
+    lazy: true
+    arguments:
+      $encoder: '@MiladGhofrani\DecoratorBundle\Decoder\GenericDecoder'
+
+  MiladGhofrani\DecoratorBundle\Decoder\Factory\DecoderFactory: ~
+
+  MiladGhofrani\DecoratorBundle\Decoder\GenericDecoder:
+    arguments:
+    $decoderFactory: '@MiladGhofrani\DecoratorBundle\Decoder\Factory\DecoderFactory'
+
